@@ -10,3 +10,10 @@ title {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
 }
+
+p.entry {
+  border-width: 2px;
+  border-style: groove;
+  padding: 5px;
+  border-color: #9E9E9E;
+}
