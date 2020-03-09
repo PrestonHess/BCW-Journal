@@ -1,0 +1,12 @@
+body {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 5%;
+  font-family: fantasy;
+}
+
+
+title {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
